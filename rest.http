@@ -1,0 +1,17 @@
+Get http://localhost:5000/products/
+
+###
+post http://localhost:5000/products
+
+###
+get http://localhost:5000/products/64e35208d34ce967b272eff5
+
+###
+patch http://localhost:5000/products/id
+
+###
+delete http://localhost:5000/products/id
+
+
+###
+GET http://localhost:5000/afd
